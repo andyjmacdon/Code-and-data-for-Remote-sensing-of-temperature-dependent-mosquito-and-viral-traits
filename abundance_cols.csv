@@ -1,0 +1,32 @@
+Variable,Description
+clust,unique trap station cluster ID
+VPD_kPa.mean,mean vapor pressure deficit
+GRIDMET_Precip_mm.mean,mean precipitation
+EVI.mean,mean Enhanced Vegetation Index
+jrcStandingWater.mean,mean area of standing water
+irrWater.mean,mean area of irrigated agriculture
+pdsi.mean,mean Palmer Drought Severity Index
+Mean_Bird_Diversity.mean,mean Shannon's bird diversity
+competent_bird_abundance.mean,mean abundance of competent bird hosts
+abund_mean,mean temperature-dependent mosquito abundance
+NLCD_majority2,categorical land cover
+Chick_mean,mean chicken density
+Cattl_mean,mean cattle density
+CApop_mean,mean human population density
+mosPerTrapNight.mean,mean number of mosquitos per trap night
+VPD_kPa.mean_std,standardized mean vapor pressure deficit
+GRIDMET_Precip_mm.mean_std,standardized mean precipitation
+EVI.mean_std,standardized mean Enhanced Vegetation Index
+jrcStandingWater.mean_std,standardized mean area of standing water
+irrWater.mean_std,standardized mean area of irrigated agriculture
+pdsi.mean_std,standardized mean Palmer Drought Severity Index
+Mean_Bird_Diversity.mean_std,standardized mean Shannon's bird diversity
+competent_bird_abundance.mean_std,standardized mean abundance of competent bird hosts
+abund_mean_std,standardized mean temperature-dependent mosquito abundance
+Chick_mean_std,standardized mean chicken density
+Cattl_mean_std,standardized mean cattle density
+CApop_mean_std,standardized mean human population density
+xcoord.x,x coordinate for determining residual spatial autocorrelation  
+xcoord_scale,x coordinate for inclusion as control in models
+ycoord_scale,y coordinate for inclusion as control in models
+ycoord.y,y coordinate for determining residual spatial autocorrelation  

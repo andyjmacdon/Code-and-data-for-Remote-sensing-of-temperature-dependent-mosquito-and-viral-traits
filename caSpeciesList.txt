@@ -1,0 +1,1462 @@
+Main List
+Anseriformes - Screamers, Swans, Geese, and Ducks
+Anatidae - Ducks, Geese, and Swans
+Black-bellied Whistling-Duck Dendrocygna autumnalis - *P
+
+Fulvous Whistling-Duck Dendrocygna bicolor - *
+
+Emperor Goose Anser canagicus - *
+
+Snow Goose Anser caerulescens
+
+Ross's Goose Anser rossii
+
+Greater White-fronted Goose Anser albifrons
+
+Tundra Bean-Goose Anser serrirostris - *P
+
+Brant Branta bernicla
+
+Cackling Goose Branta hutchinsii
+
+Canada Goose Branta canadensis
+
+Trumpeter Swan Cygnus buccinator - P
+
+Tundra Swan Cygnus columbianus
+
+Whooper Swan Cygnus cygnus - *P
+
+Wood Duck Aix sponsa
+
+Baikal Teal Sibirionetta formosa - *
+
+Garganey Spatula querquedula - *
+
+Blue-winged Teal Spatula discors
+
+Cinnamon Teal Spatula cyanoptera
+
+Northern Shoveler Spatula clypeata
+
+Gadwall Mareca strepera
+
+Falcated Duck Mareca falcata - *P
+
+Eurasian Wigeon Mareca penelope
+
+American Wigeon Mareca americana
+
+Mallard Anas platyrhynchos
+
+Mexican Duck Anas diazi - *P
+
+American Black Duck Anas rubripes - *
+
+Northern Pintail Anas acuta
+
+Green-winged Teal Anas crecca
+
+Canvasback Aythya valisineria
+
+Redhead Aythya americana
+
+Common Pochard Aythya ferina - *P
+
+Ring-necked Duck Aythya collaris
+
+Tufted Duck Aythya fuligula
+
+Greater Scaup Aythya marila
+
+Lesser Scaup Aythya affinis
+
+Steller's Eider Polysticta stelleri - *P
+
+King Eider Somateria spectabilis - *
+
+Common Eider Somateria mollissima - *P
+
+Harlequin Duck Histrionicus histrionicus
+
+Surf Scoter Melanitta perspicillata
+
+White-winged Scoter Melanitta deglandi
+
+Common Scoter Melanitta nigra - *P
+
+Black Scoter Melanitta americana
+
+Long-tailed Duck Clangula hyemalis
+
+Bufflehead Bucephala albeola
+
+Common Goldeneye Bucephala clangula
+
+Barrow's Goldeneye Bucephala islandica
+
+Smew Mergellus albellus - *PV
+
+Hooded Merganser Lophodytes cucullatus
+
+Common Merganser Mergus merganser
+
+Red-breasted Merganser Mergus serrator
+
+Ruddy Duck Oxyura jamaicensis
+
+Galliformes - Gallinaceous Birds
+Odontophoridae - New World Quail
+Mountain Quail Oreortyx pictus
+
+California Quail Callipepla californica
+
+Gambel's Quail Callipepla gambelii
+
+Phasianidae - Partridges, Grouse, Turkeys, and Old World Quail
+Wild Turkey Meleagris gallopavo - I
+
+Ruffed Grouse Bonasa umbellus
+
+White-tailed Ptarmigan Lagopus leucura - IP
+
+Greater Sage-Grouse Centrocercus urophasianus
+
+Sooty Grouse Dendragapus fuliginosus
+
+Sharp-tailed Grouse Tympanuchus phasianellus - E
+
+Ring-necked Pheasant Phasianus colchicus - I
+
+Chukar Alectoris chukar - I
+
+Podicipediformes - Grebes
+Podicipedidae - Grebes
+Least Grebe Tachybaptus dominicus - *
+
+Pied-billed Grebe Podilymbus podiceps
+
+Horned Grebe Podiceps auritus
+
+Red-necked Grebe Podiceps grisegena
+
+Eared Grebe Podiceps nigricollis
+
+Western Grebe Aechmophorus occidentalis
+
+Clark's Grebe Aechmophorus clarkii
+
+Columbiformes - Pigeons and Doves
+Columbidae - Pigeons and Doves
+Rock Pigeon Columba livia - I
+
+Band-tailed Pigeon Patagioenas fasciata
+
+Oriental Turtle-Dove Streptopelia orientalis - *PV
+
+Eurasian Collared-Dove Streptopelia decaocto - I
+
+Spotted Dove Streptopelia chinensis - I
+
+Inca Dove Columbina inca
+
+Common Ground Dove Columbina passerina
+
+Ruddy Ground Dove Columbina talpacoti
+
+White-winged Dove Zenaida asiatica
+
+Mourning Dove Zenaida macroura
+
+Cuculiformes - Cuckoos and Allies
+Cuculidae - Cuckoos, Roadrunners, and Anis
+Groove-billed Ani Crotophaga sulcirostris - *P
+
+Greater Roadrunner Geococcyx californianus
+
+Common Cuckoo Cuculus canorus - *PV
+
+Yellow-billed Cuckoo Coccyzus americanus
+
+Black-billed Cuckoo Coccyzus erythropthalmus - *
+
+Caprimulgiformes - Nightjars
+Caprimulgidae - Nightjars
+Lesser Nighthawk Chordeiles acutipennis
+
+Common Nighthawk Chordeiles minor
+
+Common Poorwill Phalaenoptilus nuttallii
+
+Chuck-will's-widow Antrostomus carolinensis - *
+
+Buff-collared Nightjar Antrostomus ridgwayi - *
+
+Eastern Whip-poor-will Antrostomus vociferus - *PA
+
+Mexican Whip-poor-will Antrostomus arizonae
+
+Apodiformes - Swifts and Hummingbirds
+Apodidae - Swifts
+Black Swift Cypseloides niger
+
+White-collared Swift Streptoprocne zonaris - *S
+
+Chimney Swift Chaetura pelagica
+
+Vaux's Swift Chaetura vauxi
+
+Common Swift Apus apus - *P
+
+White-throated Swift Aeronautes saxatalis
+
+Trochilidae - Hummingbirds
+Mexican Violetear Colibri thalassinus - *P
+
+Rivoli's Hummingbird Eugenes fulgens - *P
+
+Blue-throated Mountain-gem Lampornis clemenciae - *P
+
+Ruby-throated Hummingbird Archilochus colubris - *
+
+Black-chinned Hummingbird Archilochus alexandri
+
+Anna's Hummingbird Calypte anna
+
+Costa's Hummingbird Calypte costae
+
+Calliope Hummingbird Selasphorus calliope
+
+Rufous Hummingbird Selasphorus rufus
+
+Allen's Hummingbird Selasphorus sasin
+
+Broad-tailed Hummingbird Selasphorus platycercus
+
+Broad-billed Hummingbird Cynanthus latirostris - P
+
+Xantus's Hummingbird Basilinna xantusii - *P
+
+Violet-crowned Hummingbird Leucolia violiceps - *P
+
+Gruiformes - Rails, Cranes, and Allies
+Rallidae - Rails, Gallinules, and Coots
+Ridgway's Rail Rallus obsoletus
+
+Virginia Rail Rallus limicola
+
+Sora Porzana carolina
+
+Common Gallinule Gallinula galeata
+
+American Coot Fulica americana
+
+Purple Gallinule Porphyrio martinicus - *
+
+Yellow Rail Coturnicops noveboracensis
+
+Black Rail Laterallus jamaicensis
+
+Gruidae - Cranes
+Sandhill Crane Antigone canadensis
+
+Common Crane Grus grus - *P
+
+Charadriiformes - Shorebirds, Gulls, Auks, and Allies
+Recurvirostridae - Stilts and Avocets
+Black-necked Stilt Himantopus mexicanus
+
+American Avocet Recurvirostra americana
+
+Haematopodidae - Oystercatchers
+American Oystercatcher Haematopus palliatus
+
+Black Oystercatcher Haematopus bachmani
+
+Charadriidae - Lapwings and Plovers
+Black-bellied Plover Pluvialis squatarola
+
+American Golden-Plover Pluvialis dominica
+
+Pacific Golden-Plover Pluvialis fulva
+
+Eurasian Dotterel Charadrius morinellus - *PV
+
+Killdeer Charadrius vociferus
+
+Common Ringed Plover Charadrius hiaticula - *PVA
+
+Semipalmated Plover Charadrius semipalmatus
+
+Piping Plover Charadrius melodus - *P
+
+Lesser Sand-Plover Charadrius mongolus - *P
+
+Greater Sand-Plover Charadrius leschenaultii - *PV
+
+Wilson's Plover Charadrius wilsonia - *
+
+Mountain Plover Charadrius montanus
+
+Snowy Plover Charadrius nivosus
+
+Scolopacidae - Sandpipers, Phalaropes, and Allies
+Upland Sandpiper Bartramia longicauda - *
+
+Bristle-thighed Curlew Numenius tahitiensis - *PV
+
+Whimbrel Numenius phaeopus
+
+Little Curlew Numenius minutus - *P
+
+Long-billed Curlew Numenius americanus
+
+Bar-tailed Godwit Limosa lapponica
+
+Hudsonian Godwit Limosa haemastica - P
+
+Marbled Godwit Limosa fedoa
+
+Ruddy Turnstone Arenaria interpres
+
+Black Turnstone Arenaria melanocephala
+
+Red Knot Calidris canutus
+
+Surfbird Calidris virgata
+
+Ruff Calidris pugnax
+
+Sharp-tailed Sandpiper Calidris acuminata
+
+Stilt Sandpiper Calidris himantopus
+
+Curlew Sandpiper Calidris ferruginea - *
+
+Long-toed Stint Calidris subminuta - *P
+
+Red-necked Stint Calidris ruficollis - *P
+
+Sanderling Calidris alba
+
+Dunlin Calidris alpina
+
+Rock Sandpiper Calidris ptilocnemis
+
+Purple Sandpiper Calidris maritima - *PV
+
+Baird's Sandpiper Calidris bairdii
+
+Little Stint Calidris minuta - *
+
+Least Sandpiper Calidris minutilla
+
+White-rumped Sandpiper Calidris fuscicollis - *
+
+Buff-breasted Sandpiper Calidris subruficollis
+
+Pectoral Sandpiper Calidris melanotos
+
+Semipalmated Sandpiper Calidris pusilla
+
+Western Sandpiper Calidris mauri
+
+Short-billed Dowitcher Limnodromus griseus
+
+Long-billed Dowitcher Limnodromus scolopaceus
+
+Jack Snipe Lymnocryptes minimus - *
+
+American Woodcock Scolopax minor - *
+
+Common Snipe Gallinago gallinago - *P
+
+Wilson's Snipe Gallinago delicata
+
+Terek Sandpiper Xenus cinereus - *PV
+
+Spotted Sandpiper Actitis macularius
+
+Solitary Sandpiper Tringa solitaria
+
+Gray-tailed Tattler Tringa brevipes - *P
+
+Wandering Tattler Tringa incana
+
+Lesser Yellowlegs Tringa flavipes
+
+Willet Tringa semipalmata
+
+Spotted Redshank Tringa erythropus - *P
+
+Common Greenshank Tringa nebularia - *PV
+
+Greater Yellowlegs Tringa melanoleuca
+
+Wood Sandpiper Tringa glareola - *P
+
+Marsh Sandpiper Tringa stagnatilis - *P
+
+Wilson's Phalarope Phalaropus tricolor
+
+Red-necked Phalarope Phalaropus lobatus
+
+Red Phalarope Phalaropus fulicarius
+
+Stercorariidae - Skuas
+South Polar Skua Stercorarius maccormicki
+
+Pomarine Jaeger Stercorarius pomarinus
+
+Parasitic Jaeger Stercorarius parasiticus
+
+Long-tailed Jaeger Stercorarius longicaudus
+
+Alcidae - Auks, Murres, and Puffins
+Common Murre Uria aalge
+
+Thick-billed Murre Uria lomvia - *
+
+Pigeon Guillemot Cepphus columba
+
+Long-billed Murrelet Brachyramphus perdix - *
+
+Marbled Murrelet Brachyramphus marmoratus
+
+Kittlitz's Murrelet Brachyramphus brevirostris - *
+
+Scripps's Murrelet Synthliboramphus scrippsi
+
+Guadalupe Murrelet Synthliboramphus hypoleucus
+
+Craveri's Murrelet Synthliboramphus craveri
+
+Ancient Murrelet Synthliboramphus antiquus
+
+Cassin's Auklet Ptychoramphus aleuticus
+
+Parakeet Auklet Aethia psittacula
+
+Least Auklet Aethia pusilla - *
+
+Crested Auklet Aethia cristatella - *
+
+Rhinoceros Auklet Cerorhinca monocerata
+
+Horned Puffin Fratercula corniculata
+
+Tufted Puffin Fratercula cirrhata
+
+Laridae - Gulls, Terns, and Skimmers
+Swallow-tailed Gull Creagrus furcatus - *P
+
+Black-legged Kittiwake Rissa tridactyla
+
+Red-legged Kittiwake Rissa brevirostris - *
+
+Ivory Gull Pagophila eburnea - *P
+
+Sabine's Gull Xema sabini
+
+Bonaparte's Gull Chroicocephalus philadelphia
+
+Black-headed Gull Chroicocephalus ridibundus - *P
+
+Little Gull Hydrocoloeus minutus
+
+Ross's Gull Rhodostethia rosea - *P
+
+Laughing Gull Leucophaeus atricilla
+
+Franklin's Gull Leucophaeus pipixcan
+
+Belcher's Gull Larus belcheri - *PV
+
+Black-tailed Gull Larus crassirostris - *
+
+Heermann's Gull Larus heermanni
+
+Short-billed Gull Larus brachyrhynchus
+
+Ring-billed Gull Larus delawarensis
+
+Western Gull Larus occidentalis
+
+Yellow-footed Gull Larus livens
+
+California Gull Larus californicus
+
+Herring Gull Larus argentatus
+
+Iceland Gull Larus glaucoides
+
+Lesser Black-backed Gull Larus fuscus
+
+Slaty-backed Gull Larus schistisagus - *P
+
+Glaucous-winged Gull Larus glaucescens
+
+Glaucous Gull Larus hyperboreus
+
+Great Black-backed Gull Larus marinus - *P
+
+Kelp Gull Larus dominicanus - *P
+
+Sooty Tern Onychoprion fuscatus - *
+
+Bridled Tern Onychoprion anaethetus - *P
+
+Least Tern Sternula antillarum
+
+Gull-billed Tern Gelochelidon nilotica
+
+Caspian Tern Hydroprogne caspia
+
+Black Tern Chlidonias niger
+
+White-winged Tern Chlidonias leucopterus - *PV
+
+Common Tern Sterna hirundo
+
+Arctic Tern Sterna paradisaea
+
+Forster's Tern Sterna forsteri
+
+Royal Tern Thalasseus maximus
+
+Sandwich Tern Thalasseus sandvicensis - *P
+
+Elegant Tern Thalasseus elegans
+
+Black Skimmer Rynchops niger
+
+Phaethontiformes - Tropicbirds
+Phaethontidae - Tropicbirds
+White-tailed Tropicbird Phaethon lepturus - *P
+
+Red-billed Tropicbird Phaethon aethereus
+
+Red-tailed Tropicbird Phaethon rubricauda - *
+
+Gaviiformes - Loons
+Gaviidae - Loons
+Red-throated Loon Gavia stellata
+
+Arctic Loon Gavia arctica - *
+
+Pacific Loon Gavia pacifica
+
+Common Loon Gavia immer
+
+Yellow-billed Loon Gavia adamsii
+
+Procellariiformes - Tube-nosed Swimmers
+Diomedeidae - Albatrosses
+White-capped Albatross Thalassarche cauta - *P
+
+Chatham Albatross Thalassarche eremita - *P
+
+Salvin's Albatross Thalassarche salvini - *P
+
+Light-mantled Albatross Phoebetria palpebrata - *PV
+
+Wandering Albatross Diomedea exulans - *P
+
+Laysan Albatross Phoebastria immutabilis
+
+Black-footed Albatross Phoebastria nigripes
+
+Short-tailed Albatross Phoebastria albatrus - *
+
+Oceanitidae - Southern Storm-Petrels
+Wilson's Storm-Petrel Oceanites oceanicus
+
+Hydrobatidae - Northern Storm-Petrels
+Fork-tailed Storm-Petrel Hydrobates furcatus
+
+Ringed Storm-Petrel Hydrobates hornbyi - *P
+
+Leach's Storm-Petrel Hydrobates leucorhous
+
+Townsend's Storm-Petrel Hydrobates socorroensis
+
+Ashy Storm-Petrel Hydrobates homochroa
+
+Band-rumped Storm-Petrel Hydrobates castro - *P
+
+Wedge-rumped Storm-Petrel Hydrobates tethys - *
+
+Black Storm-Petrel Hydrobates melania
+
+Tristram's Storm-Petrel Hydrobates tristrami - *P
+
+Least Storm-Petrel Hydrobates microsoma
+
+Procellariidae - Shearwaters and Petrels
+Northern Fulmar Fulmarus glacialis
+
+Gray-faced Petrel Pterodroma gouldi - *PV
+
+Kermadec Petrel Pterodroma neglecta - *P
+
+Murphy's Petrel Pterodroma ultima
+
+Mottled Petrel Pterodroma inexpectata
+
+Hawaiian Petrel Pterodroma sandwichensis - PV
+
+Cook's Petrel Pterodroma cookii
+
+Stejneger's Petrel Pterodroma longirostris - *P
+
+Bulwer's Petrel Bulweria bulwerii - *P
+
+Jouanin's Petrel Bulweria fallax - *P
+
+White-chinned Petrel Procellaria aequinoctialis - *PV
+
+Parkinson's Petrel Procellaria parkinsoni - *P
+
+Streaked Shearwater Calonectris leucomelas - *
+
+Cory's Shearwater Calonectris diomedea - *P
+
+Wedge-tailed Shearwater Ardenna pacifica - *P
+
+Buller's Shearwater Ardenna bulleri
+
+Short-tailed Shearwater Ardenna tenuirostris
+
+Sooty Shearwater Ardenna grisea
+
+Great Shearwater Ardenna gravis - *P
+
+Pink-footed Shearwater Ardenna creatopus
+
+Flesh-footed Shearwater Ardenna carneipes
+
+Manx Shearwater Puffinus puffinus - PV
+
+Newell's Shearwater Puffinus newelli - *
+
+Black-vented Shearwater Puffinus opisthomelas
+
+Ciconiiformes - Storks
+Ciconiidae - Storks
+Wood Stork Mycteria americana - *
+
+Suliformes - Frigatebirds, Boobies, Cormorants, Darters, and Allies
+Fregatidae - Frigatebirds
+Lesser Frigatebird Fregata ariel - *P
+
+Magnificent Frigatebird Fregata magnificens
+
+Great Frigatebird Fregata minor - *P
+
+Sulidae - Boobies and Gannets
+Masked Booby Sula dactylatra
+
+Nazca Booby Sula granti
+
+Blue-footed Booby Sula nebouxii
+
+Brown Booby Sula leucogaster
+
+Red-footed Booby Sula sula
+
+Northern Gannet Morus bassanus - *P
+
+Anhingidae - Darters
+Anhinga Anhinga anhinga - *P
+
+Phalacrocoracidae - Cormorants
+Brandt's Cormorant Urile penicillatus
+
+Pelagic Cormorant Urile pelagicus
+
+Double-crested Cormorant Nannopterum auritum
+
+Neotropic Cormorant Nannopterum brasilianum - P
+
+Pelecaniformes - Pelicans, Herons, Ibises, and Allies
+Pelecanidae - Pelicans
+American White Pelican Pelecanus erythrorhynchos
+
+Brown Pelican Pelecanus occidentalis
+
+Ardeidae - Herons, Bitterns, and Allies
+American Bittern Botaurus lentiginosus
+
+Least Bittern Ixobrychus exilis
+
+Great Blue Heron Ardea herodias
+
+Great Egret Ardea alba
+
+Snowy Egret Egretta thula
+
+Little Blue Heron Egretta caerulea
+
+Tricolored Heron Egretta tricolor
+
+Reddish Egret Egretta rufescens
+
+Cattle Egret Bubulcus ibis
+
+Green Heron Butorides virescens
+
+Black-crowned Night-Heron Nycticorax nycticorax
+
+Yellow-crowned Night-Heron Nyctanassa violacea
+
+Threskiornithidae - Ibises and Spoonbills
+White Ibis Eudocimus albus - *
+
+Glossy Ibis Plegadis falcinellus - *P
+
+White-faced Ibis Plegadis chihi
+
+Roseate Spoonbill Platalea ajaja - *
+
+Cathartiformes - New World Vultures
+Cathartidae - New World Vultures
+California Condor Gymnogyps californianus - RI
+
+Black Vulture Coragyps atratus - *P
+
+Turkey Vulture Cathartes aura
+
+Accipitriformes - Hawks, Kites, Eagles, and Allies
+Pandionidae - Ospreys
+Osprey Pandion haliaetus
+
+Accipitridae - Hawks, Kites, Eagles, and Allies
+White-tailed Kite Elanus leucurus
+
+Swallow-tailed Kite Elanoides forficatus - *P
+
+Golden Eagle Aquila chrysaetos
+
+Northern Harrier Circus hudsonius
+
+Sharp-shinned Hawk Accipiter striatus
+
+Cooper's Hawk Accipiter cooperii
+
+Northern Goshawk Accipiter gentilis
+
+Bald Eagle Haliaeetus leucocephalus
+
+Mississippi Kite Ictinia mississippiensis - *
+
+Common Black Hawk Buteogallus anthracinus - *P
+
+Harris's Hawk Parabuteo unicinctus
+
+Gray Hawk Buteo plagiatus - *PV
+
+Red-shouldered Hawk Buteo lineatus
+
+Broad-winged Hawk Buteo platypterus
+
+Swainson's Hawk Buteo swainsoni
+
+Zone-tailed Hawk Buteo albonotatus
+
+Red-tailed Hawk Buteo jamaicensis
+
+Rough-legged Hawk Buteo lagopus
+
+Ferruginous Hawk Buteo regalis
+
+Strigiformes - Owls
+Tytonidae - Barn Owls
+Barn Owl Tyto alba
+
+Strigidae - Typical Owls
+Flammulated Owl Psiloscops flammeolus
+
+Western Screech-Owl Megascops kennicottii
+
+Great Horned Owl Bubo virginianus
+
+Snowy Owl Bubo scandiacus - *
+
+Northern Pygmy-Owl Glaucidium gnoma
+
+Elf Owl Micrathene whitneyi - *
+
+Burrowing Owl Athene cunicularia
+
+Spotted Owl Strix occidentalis
+
+Barred Owl Strix varia
+
+Great Gray Owl Strix nebulosa
+
+Long-eared Owl Asio otus
+
+Short-eared Owl Asio flammeus
+
+Northern Saw-whet Owl Aegolius acadicus
+
+Coraciiformes - Rollers, Motmots, Kingfishers, and Allies
+Alcedinidae - Kingfishers
+Belted Kingfisher Megaceryle alcyon
+
+Piciformes - Puffbirds, Jacamars, Toucans, Woodpeckers, and Allies
+Picidae - Woodpeckers and Allies
+Eurasian Wryneck Jynx torquilla - *P
+
+Lewis's Woodpecker Melanerpes lewis
+
+Red-headed Woodpecker Melanerpes erythrocephalus - *
+
+Acorn Woodpecker Melanerpes formicivorus
+
+Gila Woodpecker Melanerpes uropygialis
+
+Williamson's Sapsucker Sphyrapicus thyroideus
+
+Yellow-bellied Sapsucker Sphyrapicus varius
+
+Red-naped Sapsucker Sphyrapicus nuchalis
+
+Red-breasted Sapsucker Sphyrapicus ruber
+
+Black-backed Woodpecker Picoides arcticus
+
+Downy Woodpecker Dryobates pubescens
+
+Nuttall's Woodpecker Dryobates nuttallii
+
+Ladder-backed Woodpecker Dryobates scalaris
+
+Hairy Woodpecker Dryobates villosus
+
+White-headed Woodpecker Dryobates albolarvatus
+
+Northern Flicker Colaptes auratus
+
+Gilded Flicker Colaptes chrysoides
+
+Pileated Woodpecker Dryocopus pileatus
+
+Falconiformes - Caracaras and Falcons
+Falconidae - Caracaras and Falcons
+Crested Caracara Caracara plancus - *PV
+
+Eurasian Kestrel Falco tinnunculus - *P
+
+American Kestrel Falco sparverius
+
+Merlin Falco columbarius
+
+Gyrfalcon Falco rusticolus - *
+
+Peregrine Falcon Falco peregrinus
+
+Prairie Falcon Falco mexicanus
+
+Psittaciformes - Parrots
+Psittacidae - African and New World Parrots
+Nanday Parakeet Aratinga nenday - I
+
+Mitred Parakeet Psittacara mitratus - I
+
+Red-masked Parakeet Psittacara erythrogenys - I
+
+Yellow-chevroned Parakeet Brotogeris chiriri - I
+
+Red-crowned Parrot Amazona viridigenalis - I
+
+Lilac-crowned Parrot Amazona finschi - I
+
+Passeriformes - Passerine Birds
+Tyrannidae - Tyrant Flycatchers
+Dusky-capped Flycatcher Myiarchus tuberculifer
+
+Ash-throated Flycatcher Myiarchus cinerascens
+
+Nutting's Flycatcher Myiarchus nuttingi - *PVA
+
+Great Crested Flycatcher Myiarchus crinitus - *
+
+Brown-crested Flycatcher Myiarchus tyrannulus
+
+Sulphur-bellied Flycatcher Myiodynastes luteiventris - *PV
+
+Tropical Kingbird Tyrannus melancholicus
+
+Couch's Kingbird Tyrannus couchii - *PA
+
+Cassin's Kingbird Tyrannus vociferans
+
+Thick-billed Kingbird Tyrannus crassirostris - *PVA
+
+Western Kingbird Tyrannus verticalis
+
+Eastern Kingbird Tyrannus tyrannus
+
+Scissor-tailed Flycatcher Tyrannus forficatus
+
+Fork-tailed Flycatcher Tyrannus savana - *P
+
+Olive-sided Flycatcher Contopus cooperi
+
+Greater Pewee Contopus pertinax - *
+
+Western Wood-Pewee Contopus sordidulus
+
+Eastern Wood-Pewee Contopus virens - *PA
+
+Yellow-bellied Flycatcher Empidonax flaviventris - *
+
+Alder Flycatcher Empidonax alnorum - *
+
+Willow Flycatcher Empidonax traillii
+
+Least Flycatcher Empidonax minimus
+
+Hammond's Flycatcher Empidonax hammondii
+
+Gray Flycatcher Empidonax wrightii
+
+Dusky Flycatcher Empidonax oberholseri
+
+Pacific-slope Flycatcher Empidonax difficilis
+
+Cordilleran Flycatcher Empidonax occidentalis
+
+Buff-breasted Flycatcher Empidonax fulvifrons - *P
+
+Black Phoebe Sayornis nigricans
+
+Eastern Phoebe Sayornis phoebe
+
+Say's Phoebe Sayornis saya
+
+Vermilion Flycatcher Pyrocephalus rubinus
+
+Vireonidae - Vireos
+White-eyed Vireo Vireo griseus - PA
+
+Bell's Vireo Vireo bellii
+
+Gray Vireo Vireo vicinior
+
+Hutton's Vireo Vireo huttoni
+
+Yellow-throated Vireo Vireo flavifrons
+
+Cassin's Vireo Vireo cassinii
+
+Blue-headed Vireo Vireo solitarius
+
+Plumbeous Vireo Vireo plumbeus
+
+Philadelphia Vireo Vireo philadelphicus
+
+Warbling Vireo Vireo gilvus
+
+Red-eyed Vireo Vireo olivaceus
+
+Yellow-green Vireo Vireo flavoviridis
+
+Laniidae - Shrikes
+Brown Shrike Lanius cristatus - *P
+
+Loggerhead Shrike Lanius ludovicianus
+
+Northern Shrike Lanius borealis
+
+Corvidae - Crows and Jays
+Canada Jay Perisoreus canadensis
+
+Pinyon Jay Gymnorhinus cyanocephalus
+
+Steller's Jay Cyanocitta stelleri
+
+Blue Jay Cyanocitta cristata - *
+
+Island Scrub-Jay Aphelocoma insularis
+
+California Scrub-Jay Aphelocoma californica
+
+Woodhouse's Scrub-Jay Aphelocoma woodhouseii
+
+Clark's Nutcracker Nucifraga columbiana
+
+Black-billed Magpie Pica hudsonia
+
+Yellow-billed Magpie Pica nuttalli
+
+American Crow Corvus brachyrhynchos
+
+Common Raven Corvus corax
+
+Remizidae - Penduline Tits and Verdins
+Verdin Auriparus flaviceps
+
+Paridae - Chickadees and Titmice
+Black-capped Chickadee Poecile atricapillus
+
+Mountain Chickadee Poecile gambeli
+
+Chestnut-backed Chickadee Poecile rufescens
+
+Oak Titmouse Baeolophus inornatus
+
+Juniper Titmouse Baeolophus ridgwayi
+
+Alaudidae - Larks
+Eurasian Skylark Alauda arvensis - *PA
+
+Horned Lark Eremophila alpestris
+
+Locustellidae - Grasshopper-Warblers
+Lanceolated Warbler Locustella lanceolata - *P
+
+Hirundinidae - Swallows
+Bank Swallow Riparia riparia
+
+Tree Swallow Tachycineta bicolor
+
+Violet-green Swallow Tachycineta thalassina
+
+Northern Rough-winged Swallow Stelgidopteryx serripennis
+
+Purple Martin Progne subis
+
+Barn Swallow Hirundo rustica
+
+Cliff Swallow Petrochelidon pyrrhonota
+
+Cave Swallow Petrochelidon fulva - *P
+
+Aegithalidae - Long-tailed Tits and Bushtits
+Bushtit Psaltriparus minimus
+
+Phylloscopidae - Leaf Warblers
+Dusky Warbler Phylloscopus fuscatus - *
+
+Yellow-browed Warbler Phylloscopus inornatus - *P
+
+Arctic/Kamchatka Leaf Warbler Phylloscopus borealis/examinandus - *P
+
+Pycnonotidae - Bulbuls
+Red-whiskered Bulbul Pycnonotus jocosus - I
+
+Sylviidae - Sylviid Warblers
+Wrentit Chamaea fasciata
+
+Regulidae - Kinglets
+Ruby-crowned Kinglet Corthylio calendula
+
+Golden-crowned Kinglet Regulus satrapa
+
+Bombycillidae - Waxwings
+Bohemian Waxwing Bombycilla garrulus
+
+Cedar Waxwing Bombycilla cedrorum
+
+Ptiliogonatidae - Silky-flycatchers
+Phainopepla Phainopepla nitens
+
+Sittidae - Nuthatches
+Red-breasted Nuthatch Sitta canadensis
+
+White-breasted Nuthatch Sitta carolinensis
+
+Pygmy Nuthatch Sitta pygmaea
+
+Certhiidae - Creepers
+Brown Creeper Certhia americana
+
+Polioptilidae - Gnatcatchers and Gnatwrens
+Blue-gray Gnatcatcher Polioptila caerulea
+
+Black-tailed Gnatcatcher Polioptila melanura
+
+California Gnatcatcher Polioptila californica
+
+Troglodytidae - Wrens
+Rock Wren Salpinctes obsoletus
+
+Canyon Wren Catherpes mexicanus
+
+House Wren Troglodytes aedon
+
+Pacific Wren Troglodytes pacificus
+
+Winter Wren Troglodytes hiemalis - *PA
+
+Sedge Wren Cistothorus stellaris - *PA
+
+Marsh Wren Cistothorus palustris
+
+Bewick's Wren Thryomanes bewickii
+
+Cactus Wren Campylorhynchus brunneicapillus
+
+Mimidae - Mockingbirds and Thrashers
+Gray Catbird Dumetella carolinensis
+
+Curve-billed Thrasher Toxostoma curvirostre - *
+
+Brown Thrasher Toxostoma rufum
+
+Bendire's Thrasher Toxostoma bendirei
+
+California Thrasher Toxostoma redivivum
+
+LeConte's Thrasher Toxostoma lecontei
+
+Crissal Thrasher Toxostoma crissale
+
+Sage Thrasher Oreoscoptes montanus
+
+Northern Mockingbird Mimus polyglottos
+
+Sturnidae - Starlings
+European Starling Sturnus vulgaris - I
+
+Cinclidae - Dippers
+American Dipper Cinclus mexicanus
+
+Turdidae - Thrushes
+Western Bluebird Sialia mexicana
+
+Mountain Bluebird Sialia currucoides
+
+Townsend's Solitaire Myadestes townsendi
+
+Veery Catharus fuscescens - *PA
+
+Gray-cheeked Thrush Catharus minimus - *
+
+Swainson's Thrush Catharus ustulatus
+
+Hermit Thrush Catharus guttatus
+
+Wood Thrush Hylocichla mustelina - *
+
+Eyebrowed Thrush Turdus obscurus - *PV
+
+Rufous-backed Robin Turdus rufopalliatus - *P
+
+American Robin Turdus migratorius
+
+Varied Thrush Ixoreus naevius
+
+Muscicapidae - Old World Flycatchers
+Bluethroat Cyanecula svecica - *P
+
+Red-flanked Bluetail Tarsiger cyanurus - *
+
+Taiga Flycatcher Ficedula albicilla - *P
+
+Stonechat Saxicola torquatus - *P
+
+Northern Wheatear Oenanthe oenanthe - *
+
+Estrildidae - Waxbills and Allies
+Scaly-breasted Munia Lonchura punctulata - I
+
+Passeridae - Old World Sparrows
+House Sparrow Passer domesticus - I
+
+Motacillidae - Wagtails and Pipits
+Eastern Yellow Wagtail Motacilla tschutschensis - *PA
+
+Citrine Wagtail Motacilla citreola - *P
+
+Gray Wagtail Motacilla cinerea - *P
+
+White Wagtail Motacilla alba - *P
+
+Olive-backed Pipit Anthus hodgsoni - *P
+
+Red-throated Pipit Anthus cervinus
+
+American Pipit Anthus rubescens
+
+Sprague's Pipit Anthus spragueii
+
+Fringillidae - Fringilline and Cardueline Finches and Allies
+Brambling Fringilla montifringilla - *PV
+
+Evening Grosbeak Coccothraustes vespertinus
+
+Common Rosefinch Carpodacus erythrinus - *P
+
+Pine Grosbeak Pinicola enucleator
+
+Gray-crowned Rosy-Finch Leucosticte tephrocotis
+
+Black Rosy-Finch Leucosticte atrata - *
+
+House Finch Haemorhous mexicanus
+
+Purple Finch Haemorhous purpureus
+
+Cassin's Finch Haemorhous cassinii
+
+Oriental Greenfinch Chloris sinica - *P
+
+Common Redpoll Acanthis flammea
+
+Red Crossbill Loxia curvirostra
+
+White-winged Crossbill Loxia leucoptera - *P
+
+Pine Siskin Spinus pinus
+
+Lesser Goldfinch Spinus psaltria
+
+Lawrence's Goldfinch Spinus lawrencei
+
+American Goldfinch Spinus tristis
+
+Calcariidae - Longspurs and Snow Buntings
+Lapland Longspur Calcarius lapponicus
+
+Chestnut-collared Longspur Calcarius ornatus
+
+Smith's Longspur Calcarius pictus - *PV
+
+Thick-billed Longspur Rhynchophanes mccownii
+
+Snow Bunting Plectrophenax nivalis
+
+Emberizidae - Old World Buntings
+Little Bunting Emberiza pusilla - *P
+
+Rustic Bunting Emberiza rustica - *P
+
+Passerellidae - New World Sparrows
+Cassin's Sparrow Peucaea cassinii - *
+
+Grasshopper Sparrow Ammodramus savannarum
+
+Black-throated Sparrow Amphispiza bilineata
+
+Lark Sparrow Chondestes grammacus
+
+Lark Bunting Calamospiza melanocorys
+
+Chipping Sparrow Spizella passerina
+
+Clay-colored Sparrow Spizella pallida
+
+Black-chinned Sparrow Spizella atrogularis
+
+Field Sparrow Spizella pusilla - *P
+
+Brewer's Sparrow Spizella breweri
+
+Fox Sparrow Passerella iliaca
+
+American Tree Sparrow Spizelloides arborea
+
+Dark-eyed Junco Junco hyemalis
+
+White-crowned Sparrow Zonotrichia leucophrys
+
+Golden-crowned Sparrow Zonotrichia atricapilla
+
+Harris's Sparrow Zonotrichia querula
+
+White-throated Sparrow Zonotrichia albicollis
+
+Sagebrush Sparrow Artemisiospiza nevadensis
+
+Bell's Sparrow Artemisiospiza belli
+
+Vesper Sparrow Pooecetes gramineus
+
+LeConte's Sparrow Ammospiza leconteii - *
+
+Nelson's Sparrow Ammospiza nelsoni
+
+Baird's Sparrow Centronyx bairdii - *
+
+Savannah Sparrow Passerculus sandwichensis
+
+Song Sparrow Melospiza melodia
+
+Lincoln's Sparrow Melospiza lincolnii
+
+Swamp Sparrow Melospiza georgiana
+
+Abert's Towhee Melozone aberti
+
+California Towhee Melozone crissalis
+
+Rufous-crowned Sparrow Aimophila ruficeps
+
+Green-tailed Towhee Pipilo chlorurus
+
+Spotted Towhee Pipilo maculatus
+
+Icteriidae - Yellow-breasted Chats
+Yellow-breasted Chat Icteria virens
+
+Icteridae - Blackbirds
+Yellow-headed Blackbird Xanthocephalus xanthocephalus
+
+Bobolink Dolichonyx oryzivorus
+
+Eastern Meadowlark Sturnella magna - *PA
+
+Western Meadowlark Sturnella neglecta
+
+Orchard Oriole Icterus spurius
+
+Hooded Oriole Icterus cucullatus
+
+Streak-backed Oriole Icterus pustulatus - *
+
+Bullock's Oriole Icterus bullockii
+
+Baltimore Oriole Icterus galbula
+
+Scott's Oriole Icterus parisorum
+
+Red-winged Blackbird Agelaius phoeniceus
+
+Tricolored Blackbird Agelaius tricolor
+
+Bronzed Cowbird Molothrus aeneus
+
+Brown-headed Cowbird Molothrus ater
+
+Rusty Blackbird Euphagus carolinus
+
+Brewer's Blackbird Euphagus cyanocephalus
+
+Common Grackle Quiscalus quiscula
+
+Great-tailed Grackle Quiscalus mexicanus
+
+Parulidae - Wood-Warblers
+Ovenbird Seiurus aurocapilla
+
+Worm-eating Warbler Helmitheros vermivorum
+
+Louisiana Waterthrush Parkesia motacilla - *
+
+Northern Waterthrush Parkesia noveboracensis
+
+Golden-winged Warbler Vermivora chrysoptera - *
+
+Blue-winged Warbler Vermivora cyanoptera - *
+
+Black-and-white Warbler Mniotilta varia
+
+Prothonotary Warbler Protonotaria citrea
+
+Tennessee Warbler Leiothlypis peregrina
+
+Orange-crowned Warbler Leiothlypis celata
+
+Lucy's Warbler Leiothlypis luciae
+
+Nashville Warbler Leiothlypis ruficapilla
+
+Virginia's Warbler Leiothlypis virginiae
+
+Connecticut Warbler Oporornis agilis
+
+MacGillivray's Warbler Geothlypis tolmiei
+
+Mourning Warbler Geothlypis philadelphia
+
+Kentucky Warbler Geothlypis formosa
+
+Common Yellowthroat Geothlypis trichas
+
+Hooded Warbler Setophaga citrina
+
+American Redstart Setophaga ruticilla
+
+Cape May Warbler Setophaga tigrina
+
+Cerulean Warbler Setophaga cerulea - *
+
+Northern Parula Setophaga americana
+
+Tropical Parula Setophaga pitiayumi - *PV
+
+Magnolia Warbler Setophaga magnolia
+
+Bay-breasted Warbler Setophaga castanea
+
+Blackburnian Warbler Setophaga fusca
+
+Yellow Warbler Setophaga petechia
+
+Chestnut-sided Warbler Setophaga pensylvanica
+
+Blackpoll Warbler Setophaga striata
+
+Black-throated Blue Warbler Setophaga caerulescens
+
+Palm Warbler Setophaga palmarum
+
+Pine Warbler Setophaga pinus
+
+Yellow-rumped Warbler Setophaga coronata
+
+Yellow-throated Warbler Setophaga dominica
+
+Prairie Warbler Setophaga discolor
+
+Grace's Warbler Setophaga graciae
+
+Black-throated Gray Warbler Setophaga nigrescens
+
+Townsend's Warbler Setophaga townsendi
+
+Hermit Warbler Setophaga occidentalis
+
+Golden-cheeked Warbler Setophaga chrysoparia - *
+
+Black-throated Green Warbler Setophaga virens
+
+Canada Warbler Cardellina canadensis
+
+Wilson's Warbler Cardellina pusilla
+
+Red-faced Warbler Cardellina rubrifrons - *
+
+Painted Redstart Myioborus pictus
+
+Cardinalidae - Cardinals and Allies
+Hepatic Tanager Piranga flava
+
+Summer Tanager Piranga rubra
+
+Scarlet Tanager Piranga olivacea
+
+Western Tanager Piranga ludoviciana
+
+Northern Cardinal Cardinalis cardinalis
+
+Pyrrhuloxia Cardinalis sinuatus - *P
+
+Rose-breasted Grosbeak Pheucticus ludovicianus
+
+Black-headed Grosbeak Pheucticus melanocephalus
+
+Blue Grosbeak Passerina caerulea
+
+Lazuli Bunting Passerina amoena
+
+Indigo Bunting Passerina cyanea
+
+Varied Bunting Passerina versicolor - *
+
+Painted Bunting Passerina ciris
+
+Dickcissel Spiza americana
