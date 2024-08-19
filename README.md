@@ -1,5 +1,5 @@
 # WNV_temp_dep_trait_RS_validation
-Code and data for "Remote sensing of temperature-dependent mosquito and viral traits predicts field surveillance-based disease risk"
+Code and data for "Remote sensing of temperature-dependent mosquito and viral traits predicts field surveillance-based disease risk" (DOI: 10.5281/zenodo.13344415).
 
 This dataset contains a bird species list for California that was used to calculate Shannon's diversity within the study region in this manuscript, to use as a covariate in models predicting West Nile virus infection rates in mosquitos in the northern Central Valley. The dataset also contains shapefiles that were used to 1) request ECOSTRESS data for the region of interest ("Northern_Central_Valley.shp") to be used in modeling temperature-dependent mosquito and viral traits for West Nile virus risk, and 2) summarize environmental and vertebrate host data to include as covariates in models predicting mosquito abundance and West Nile virus infection rates as described in the manuscript ("trap_clusters.shp"). This dataset additionally includes the final summarized datasets, associated data dictionary describing each variable in the datasets, and code files required to replicate the analyses and produce the figures in the associated manuscript.
 
